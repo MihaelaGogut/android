@@ -1,1 +1,24 @@
-
+{
+  "Actori externi": [
+    {
+      "name": "Brad Pit",
+      "description": "Brad Pitt (n. 18 decembrie 1963) este un actor, producător de film și activist social american.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brad_Pitt_2012.jpg/220px-Brad_Pitt_2012.jpg"
+    },
+    {
+      "name": "Jennifer Lopez",
+      "description": "Jennifer López este o actriță și cântăreață americană, născută pe 24 iulie 1969, în cartierul Bronx din New York.",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/45/ed/af/45edaf2f948910a67653792c47977f99.jpg"
+    },
+    {
+      "name": "Tom Cruise",
+      "description": "Tom Cruise (n. 3 iulie 1962) este un actor american, nominalizat la premiul Oscar pentru rolul din filmul Jerry Maguire.",
+      "image": "hhttps://lh3.googleusercontent.com/-y7IKq_HWJkY/U52QECVlovI/AAAAAAAADWw/6sEi8sQ6G2k/s512/Tom%2520Cruise%2520Hairstyles%25203.JPG"
+    },
+    {
+      "name": "Leonardo Dicaprio",
+      "description": "Leonardo Wilhelm DiCaprio (n. 11 noiembrie 1974, Los Angeles, California)[1] este un actor și producător de film american. El a fost nominalizat de șase ori la Premiile Oscar și de zece ori la Premiile Globul de Aur.",
+      "image": "http://www4.pictures.gi.zimbio.com/UK+Film+Premiere+Revolutionary+Road+Inside+jhd1nCV7w7Sl.jpg"
+    }
+  ]
+}
